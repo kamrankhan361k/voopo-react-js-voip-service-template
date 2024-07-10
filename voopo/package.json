@@ -1,0 +1,57 @@
+{
+  "name": "voopo-react",
+  "version": "2.0.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/user-event": "^14.4.3",
+    "animate.css": "^3.7.2",
+    "autoprefixer": "^10.4.13",
+    "bootstrap": "^5.2.3",
+    "google-maps-react": "^2.0.6",
+    "prop-types": "^15.7.2",
+    "react": "^18.2.0",
+    "react-app-polyfill": "^3.0.0",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-dom": "^18.2.0",
+    "react-icons": "^3.8.0",
+    "react-id-swiper": "^2.4.0",
+    "react-mailchimp-subscribe": "^2.1.0",
+    "react-meta-tags": "^1.0.1",
+    "react-modal-video": "^1.2.3",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^5.0.1",
+    "react-scroll": "^1.8.9",
+    "swiper": "^5.3.0",
+    "web-vitals": "^3.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all",
+      "ie 11"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "sass": "^1.35.1"
+  },
+  "resolutions": {
+    "autoprefixer": "10.4.5"
+  }
+}
